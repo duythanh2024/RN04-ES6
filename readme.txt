@@ -1,2 +1,1 @@
-OK
-hi
+Duy Thanh
